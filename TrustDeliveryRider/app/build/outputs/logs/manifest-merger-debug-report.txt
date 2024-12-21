@@ -1,0 +1,424 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.google.android.material:material:1.11.0] /home/gipsy/.gradle/caches/transforms-4/4521785cd89d09243f962a2d858a87e3/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/gipsy/.gradle/caches/transforms-4/da2926b644e2c6d96e189eb0405b74cd/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/gipsy/.gradle/caches/transforms-4/0729c24a3854422a0d2d2094c50c7619/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/gipsy/.gradle/caches/transforms-4/a32dcb51f4c10c809b023fc30cfd25ba/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material3:material3:1.1.2] /home/gipsy/.gradle/caches/transforms-4/97a938847e3125c49e873040525325dc/transformed/material3-1.1.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.7.6] /home/gipsy/.gradle/caches/transforms-4/be3237124df4a59740896f66bed29a70/transformed/navigation-common-2.7.6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] /home/gipsy/.gradle/caches/transforms-4/d10b4939905c5dec034b1ee1d7601dde/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] /home/gipsy/.gradle/caches/transforms-4/f6806cc8d562a755b2344e8231c53d40/transformed/navigation-common-ktx-2.7.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] /home/gipsy/.gradle/caches/transforms-4/70c8fb7f8ee64a4245845987c5b4b589/transformed/navigation-runtime-ktx-2.7.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.6] /home/gipsy/.gradle/caches/transforms-4/fd838b96a0b84fd504df94d3ae4a48e4/transformed/navigation-compose-2.7.6/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/gipsy/.gradle/caches/transforms-4/ee40b6babc1c6442ea34654a12a84d3a/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/gipsy/.gradle/caches/transforms-4/93991b3616433797646b22b59abb0151/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.2] /home/gipsy/.gradle/caches/transforms-4/3e77057e8d5d70e7bc400d99219eb118/transformed/activity-1.8.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/gipsy/.gradle/caches/transforms-4/f3a09f7c7c296959f970fe9455e2763a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gipsy/.gradle/caches/transforms-4/52b11b075e53dc4dd614c533f0ad82e0/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/gipsy/.gradle/caches/transforms-4/9bce04a753b46f653e4c2a5acc716887/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/a081b8c3d62d5717c4e3dfee59f90b59/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/7eb096ff0610301c5f729bf659a858b9/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/ae918e74020e6dd7d33dddca0ad057b0/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/5ab7fbf398fcee2f4f7b1fb9985e54a2/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/d8c40b1ec274462641a5c996c0d2ea84/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/07a15a0f63fc91503e7a8d2103c739b4/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/cc10b2771a05680655cf66290dda3221/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/0ef5274461aad7954c4b341be2cf449e/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/6f231362284d5b3e1352c8685170054d/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/7b7db6d6178621a928388871b83829ce/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/4a92253a084ab2c6f90480d3a7cd0da0/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/8b028fae43ca9c30a22a62e5e546b9ce/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/3ddcea85ec7b5ab01929b5efd39bcd59/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/e25ac7f6420b77792d350eb54c17f3bf/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /home/gipsy/.gradle/caches/transforms-4/bc5f4e166b31b4f289d0bd685162b38d/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/gipsy/.gradle/caches/transforms-4/c99d1d5a0904130b2cda123afdee61ac/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/gipsy/.gradle/caches/transforms-4/22a7da35ebc7618db1be58dfba028db6/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/gipsy/.gradle/caches/transforms-4/df3471830260c5b1c8f8215506eeebfb/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/gipsy/.gradle/caches/transforms-4/292f375b275e8ed334149377a9af381a/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/gipsy/.gradle/caches/transforms-4/3ef38d583fe7399efca11607e0dfb3b4/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/gipsy/.gradle/caches/transforms-4/7b81bc1914df03c7daac2dbb3b84ce6b/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/gipsy/.gradle/caches/transforms-4/bf99e1eef59dd7d8ed9d39dc9b741621/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/gipsy/.gradle/caches/transforms-4/5d02ff5c985f26b74cc93ff7849d6781/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/gipsy/.gradle/caches/transforms-4/9bb62c663e453d98fba6108086569cfa/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/gipsy/.gradle/caches/transforms-4/b7bd2e8f91d905a6fb7f3079e8f1257f/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /home/gipsy/.gradle/caches/transforms-4/ab47468138973e0e9baa7c21a828723c/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/3dcab0c4bdb7d2b633c6cb6626d95b1c/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /home/gipsy/.gradle/caches/transforms-4/f7c1578955e9e876a964e45e87410d2b/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/d499c58aaf6d2b4c5a2478903e7d791c/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.8.2] /home/gipsy/.gradle/caches/transforms-4/7306f33af1e23e2c99afdb413dc4add8/transformed/activity-compose-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] /home/gipsy/.gradle/caches/transforms-4/ac1f528697b2f6f09d60582a6468faab/transformed/activity-ktx-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/gipsy/.gradle/caches/transforms-4/eeeac579df6f5f352f2b2549a6180382/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] /home/gipsy/.gradle/caches/transforms-4/6736d4b571b2371d2f5070c454ece737/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gipsy/.gradle/caches/transforms-4/ecf154039b27728f18a01a3ba31ef047/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/gipsy/.gradle/caches/transforms-4/0996cc1ea8b191ed5f0946034467fc3e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/gipsy/.gradle/caches/transforms-4/90ac6035309b82ca8cd01131dac4faed/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gipsy/.gradle/caches/transforms-4/4dcbfad10855b803a665ba5928a55433/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gipsy/.gradle/caches/transforms-4/0207a1b721658c6774b572d9412a6297/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/gipsy/.gradle/caches/transforms-4/f7c89d5ec185d66d839f5f461edb28e9/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/gipsy/.gradle/caches/transforms-4/001772a82a52f7bdfe8b757393a91a19/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gipsy/.gradle/caches/transforms-4/9747bf0bf8d6c10d5dcc6bdfc874af22/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/gipsy/.gradle/caches/transforms-4/43f31c128712c985c45a5a6fc8853387/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] /home/gipsy/.gradle/caches/transforms-4/3440bd93fc414bd336662979a7a560f3/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/gipsy/.gradle/caches/transforms-4/e2e8023137b1ee426209b654916eb874/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/gipsy/.gradle/caches/transforms-4/7aa84f95eb27824fb7dbcc189c4f589c/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/77ab1c735d8b679e4ecda1de03acb9e3/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/66651d84f251e27ea46203761ddd8661/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/gipsy/.gradle/caches/transforms-4/7e12e969290529ff42f69f65d20f406a/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gipsy/.gradle/caches/transforms-4/2e3308919a198637319dced610eb89d0/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gipsy/.gradle/caches/transforms-4/3a64de883d659106377b278e8295dbda/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gipsy/.gradle/caches/transforms-4/666d61e47c1ca4674c6ef0222ee2603f/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gipsy/.gradle/caches/transforms-4/6931b87ba6347ce422c014ba6f3642f6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/gipsy/.gradle/caches/transforms-4/a30263ed189aaef02c766c9ff7dd1784/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gipsy/.gradle/caches/transforms-4/dc576f960b3bf1bc6ae7218faf595055/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/gipsy/.gradle/caches/transforms-4/b9c7d11f1f27c1e186603b27fa8a894e/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gipsy/.gradle/caches/transforms-4/8c3407d5b187b9cfc5b39f97d2068b16/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gipsy/.gradle/caches/transforms-4/07fdf0a0828a049bb759e47dc0a2380a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/gipsy/.gradle/caches/transforms-4/99d20581bd58573199ff83db56ddeab9/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:6:5-30:19
+INJECTED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:6:5-30:19
+MERGED from [com.google.android.material:material:1.11.0] /home/gipsy/.gradle/caches/transforms-4/4521785cd89d09243f962a2d858a87e3/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] /home/gipsy/.gradle/caches/transforms-4/4521785cd89d09243f962a2d858a87e3/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/gipsy/.gradle/caches/transforms-4/da2926b644e2c6d96e189eb0405b74cd/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/gipsy/.gradle/caches/transforms-4/da2926b644e2c6d96e189eb0405b74cd/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/gipsy/.gradle/caches/transforms-4/c99d1d5a0904130b2cda123afdee61ac/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/gipsy/.gradle/caches/transforms-4/c99d1d5a0904130b2cda123afdee61ac/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/gipsy/.gradle/caches/transforms-4/df3471830260c5b1c8f8215506eeebfb/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/gipsy/.gradle/caches/transforms-4/df3471830260c5b1c8f8215506eeebfb/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /home/gipsy/.gradle/caches/transforms-4/f7c1578955e9e876a964e45e87410d2b/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /home/gipsy/.gradle/caches/transforms-4/f7c1578955e9e876a964e45e87410d2b/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/d499c58aaf6d2b4c5a2478903e7d791c/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/d499c58aaf6d2b4c5a2478903e7d791c/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.12.0] /home/gipsy/.gradle/caches/transforms-4/3440bd93fc414bd336662979a7a560f3/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /home/gipsy/.gradle/caches/transforms-4/3440bd93fc414bd336662979a7a560f3/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gipsy/.gradle/caches/transforms-4/6931b87ba6347ce422c014ba6f3642f6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gipsy/.gradle/caches/transforms-4/6931b87ba6347ce422c014ba6f3642f6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gipsy/.gradle/caches/transforms-4/dc576f960b3bf1bc6ae7218faf595055/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gipsy/.gradle/caches/transforms-4/dc576f960b3bf1bc6ae7218faf595055/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /home/gipsy/.gradle/caches/transforms-4/3440bd93fc414bd336662979a7a560f3/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:9:9-54
+	android:roundIcon
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:14:9-56
+	android:networkSecurityConfig
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:15:9-69
+	android:dataExtractionRules
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:8:9-65
+	android:usesCleartextTraffic
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:16:9-44
+activity#com.example.trustdeliveryrider.MainActivity
+ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:19:9-29:20
+	android:label
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:22:13-45
+	android:exported
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:21:13-36
+	android:theme
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:23:13-60
+	android:name
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml
+INJECTED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.11.0] /home/gipsy/.gradle/caches/transforms-4/4521785cd89d09243f962a2d858a87e3/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /home/gipsy/.gradle/caches/transforms-4/4521785cd89d09243f962a2d858a87e3/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/gipsy/.gradle/caches/transforms-4/da2926b644e2c6d96e189eb0405b74cd/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/gipsy/.gradle/caches/transforms-4/da2926b644e2c6d96e189eb0405b74cd/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/gipsy/.gradle/caches/transforms-4/0729c24a3854422a0d2d2094c50c7619/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/gipsy/.gradle/caches/transforms-4/0729c24a3854422a0d2d2094c50c7619/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/gipsy/.gradle/caches/transforms-4/a32dcb51f4c10c809b023fc30cfd25ba/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/gipsy/.gradle/caches/transforms-4/a32dcb51f4c10c809b023fc30cfd25ba/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.2] /home/gipsy/.gradle/caches/transforms-4/97a938847e3125c49e873040525325dc/transformed/material3-1.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.2] /home/gipsy/.gradle/caches/transforms-4/97a938847e3125c49e873040525325dc/transformed/material3-1.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.6] /home/gipsy/.gradle/caches/transforms-4/be3237124df4a59740896f66bed29a70/transformed/navigation-common-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.6] /home/gipsy/.gradle/caches/transforms-4/be3237124df4a59740896f66bed29a70/transformed/navigation-common-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] /home/gipsy/.gradle/caches/transforms-4/d10b4939905c5dec034b1ee1d7601dde/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] /home/gipsy/.gradle/caches/transforms-4/d10b4939905c5dec034b1ee1d7601dde/transformed/navigation-runtime-2.7.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] /home/gipsy/.gradle/caches/transforms-4/f6806cc8d562a755b2344e8231c53d40/transformed/navigation-common-ktx-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] /home/gipsy/.gradle/caches/transforms-4/f6806cc8d562a755b2344e8231c53d40/transformed/navigation-common-ktx-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] /home/gipsy/.gradle/caches/transforms-4/70c8fb7f8ee64a4245845987c5b4b589/transformed/navigation-runtime-ktx-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] /home/gipsy/.gradle/caches/transforms-4/70c8fb7f8ee64a4245845987c5b4b589/transformed/navigation-runtime-ktx-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.6] /home/gipsy/.gradle/caches/transforms-4/fd838b96a0b84fd504df94d3ae4a48e4/transformed/navigation-compose-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.6] /home/gipsy/.gradle/caches/transforms-4/fd838b96a0b84fd504df94d3ae4a48e4/transformed/navigation-compose-2.7.6/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/gipsy/.gradle/caches/transforms-4/ee40b6babc1c6442ea34654a12a84d3a/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/gipsy/.gradle/caches/transforms-4/ee40b6babc1c6442ea34654a12a84d3a/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/gipsy/.gradle/caches/transforms-4/93991b3616433797646b22b59abb0151/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/gipsy/.gradle/caches/transforms-4/93991b3616433797646b22b59abb0151/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.2] /home/gipsy/.gradle/caches/transforms-4/3e77057e8d5d70e7bc400d99219eb118/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] /home/gipsy/.gradle/caches/transforms-4/3e77057e8d5d70e7bc400d99219eb118/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/gipsy/.gradle/caches/transforms-4/f3a09f7c7c296959f970fe9455e2763a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/gipsy/.gradle/caches/transforms-4/f3a09f7c7c296959f970fe9455e2763a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gipsy/.gradle/caches/transforms-4/52b11b075e53dc4dd614c533f0ad82e0/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gipsy/.gradle/caches/transforms-4/52b11b075e53dc4dd614c533f0ad82e0/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/gipsy/.gradle/caches/transforms-4/9bce04a753b46f653e4c2a5acc716887/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/gipsy/.gradle/caches/transforms-4/9bce04a753b46f653e4c2a5acc716887/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/a081b8c3d62d5717c4e3dfee59f90b59/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/a081b8c3d62d5717c4e3dfee59f90b59/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/7eb096ff0610301c5f729bf659a858b9/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/7eb096ff0610301c5f729bf659a858b9/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/ae918e74020e6dd7d33dddca0ad057b0/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/ae918e74020e6dd7d33dddca0ad057b0/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/5ab7fbf398fcee2f4f7b1fb9985e54a2/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/5ab7fbf398fcee2f4f7b1fb9985e54a2/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/d8c40b1ec274462641a5c996c0d2ea84/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/d8c40b1ec274462641a5c996c0d2ea84/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/07a15a0f63fc91503e7a8d2103c739b4/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/07a15a0f63fc91503e7a8d2103c739b4/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/cc10b2771a05680655cf66290dda3221/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/cc10b2771a05680655cf66290dda3221/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/0ef5274461aad7954c4b341be2cf449e/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/0ef5274461aad7954c4b341be2cf449e/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/6f231362284d5b3e1352c8685170054d/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/6f231362284d5b3e1352c8685170054d/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/7b7db6d6178621a928388871b83829ce/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/7b7db6d6178621a928388871b83829ce/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/4a92253a084ab2c6f90480d3a7cd0da0/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/4a92253a084ab2c6f90480d3a7cd0da0/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/8b028fae43ca9c30a22a62e5e546b9ce/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/8b028fae43ca9c30a22a62e5e546b9ce/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/3ddcea85ec7b5ab01929b5efd39bcd59/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/3ddcea85ec7b5ab01929b5efd39bcd59/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/e25ac7f6420b77792d350eb54c17f3bf/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/e25ac7f6420b77792d350eb54c17f3bf/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /home/gipsy/.gradle/caches/transforms-4/bc5f4e166b31b4f289d0bd685162b38d/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /home/gipsy/.gradle/caches/transforms-4/bc5f4e166b31b4f289d0bd685162b38d/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/gipsy/.gradle/caches/transforms-4/c99d1d5a0904130b2cda123afdee61ac/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /home/gipsy/.gradle/caches/transforms-4/c99d1d5a0904130b2cda123afdee61ac/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/gipsy/.gradle/caches/transforms-4/22a7da35ebc7618db1be58dfba028db6/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/gipsy/.gradle/caches/transforms-4/22a7da35ebc7618db1be58dfba028db6/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/gipsy/.gradle/caches/transforms-4/df3471830260c5b1c8f8215506eeebfb/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/gipsy/.gradle/caches/transforms-4/df3471830260c5b1c8f8215506eeebfb/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/gipsy/.gradle/caches/transforms-4/292f375b275e8ed334149377a9af381a/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/gipsy/.gradle/caches/transforms-4/292f375b275e8ed334149377a9af381a/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/gipsy/.gradle/caches/transforms-4/3ef38d583fe7399efca11607e0dfb3b4/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/gipsy/.gradle/caches/transforms-4/3ef38d583fe7399efca11607e0dfb3b4/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/gipsy/.gradle/caches/transforms-4/7b81bc1914df03c7daac2dbb3b84ce6b/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/gipsy/.gradle/caches/transforms-4/7b81bc1914df03c7daac2dbb3b84ce6b/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/gipsy/.gradle/caches/transforms-4/bf99e1eef59dd7d8ed9d39dc9b741621/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/gipsy/.gradle/caches/transforms-4/bf99e1eef59dd7d8ed9d39dc9b741621/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/gipsy/.gradle/caches/transforms-4/5d02ff5c985f26b74cc93ff7849d6781/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/gipsy/.gradle/caches/transforms-4/5d02ff5c985f26b74cc93ff7849d6781/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/gipsy/.gradle/caches/transforms-4/9bb62c663e453d98fba6108086569cfa/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/gipsy/.gradle/caches/transforms-4/9bb62c663e453d98fba6108086569cfa/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/gipsy/.gradle/caches/transforms-4/b7bd2e8f91d905a6fb7f3079e8f1257f/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/gipsy/.gradle/caches/transforms-4/b7bd2e8f91d905a6fb7f3079e8f1257f/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /home/gipsy/.gradle/caches/transforms-4/ab47468138973e0e9baa7c21a828723c/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /home/gipsy/.gradle/caches/transforms-4/ab47468138973e0e9baa7c21a828723c/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/3dcab0c4bdb7d2b633c6cb6626d95b1c/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/3dcab0c4bdb7d2b633c6cb6626d95b1c/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /home/gipsy/.gradle/caches/transforms-4/f7c1578955e9e876a964e45e87410d2b/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /home/gipsy/.gradle/caches/transforms-4/f7c1578955e9e876a964e45e87410d2b/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/d499c58aaf6d2b4c5a2478903e7d791c/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/d499c58aaf6d2b4c5a2478903e7d791c/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /home/gipsy/.gradle/caches/transforms-4/7306f33af1e23e2c99afdb413dc4add8/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] /home/gipsy/.gradle/caches/transforms-4/7306f33af1e23e2c99afdb413dc4add8/transformed/activity-compose-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /home/gipsy/.gradle/caches/transforms-4/ac1f528697b2f6f09d60582a6468faab/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /home/gipsy/.gradle/caches/transforms-4/ac1f528697b2f6f09d60582a6468faab/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/gipsy/.gradle/caches/transforms-4/eeeac579df6f5f352f2b2549a6180382/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/gipsy/.gradle/caches/transforms-4/eeeac579df6f5f352f2b2549a6180382/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] /home/gipsy/.gradle/caches/transforms-4/6736d4b571b2371d2f5070c454ece737/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /home/gipsy/.gradle/caches/transforms-4/6736d4b571b2371d2f5070c454ece737/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gipsy/.gradle/caches/transforms-4/ecf154039b27728f18a01a3ba31ef047/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gipsy/.gradle/caches/transforms-4/ecf154039b27728f18a01a3ba31ef047/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/gipsy/.gradle/caches/transforms-4/0996cc1ea8b191ed5f0946034467fc3e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/gipsy/.gradle/caches/transforms-4/0996cc1ea8b191ed5f0946034467fc3e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/gipsy/.gradle/caches/transforms-4/90ac6035309b82ca8cd01131dac4faed/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/gipsy/.gradle/caches/transforms-4/90ac6035309b82ca8cd01131dac4faed/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gipsy/.gradle/caches/transforms-4/4dcbfad10855b803a665ba5928a55433/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gipsy/.gradle/caches/transforms-4/4dcbfad10855b803a665ba5928a55433/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gipsy/.gradle/caches/transforms-4/0207a1b721658c6774b572d9412a6297/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gipsy/.gradle/caches/transforms-4/0207a1b721658c6774b572d9412a6297/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/gipsy/.gradle/caches/transforms-4/f7c89d5ec185d66d839f5f461edb28e9/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/gipsy/.gradle/caches/transforms-4/f7c89d5ec185d66d839f5f461edb28e9/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/gipsy/.gradle/caches/transforms-4/001772a82a52f7bdfe8b757393a91a19/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/gipsy/.gradle/caches/transforms-4/001772a82a52f7bdfe8b757393a91a19/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gipsy/.gradle/caches/transforms-4/9747bf0bf8d6c10d5dcc6bdfc874af22/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gipsy/.gradle/caches/transforms-4/9747bf0bf8d6c10d5dcc6bdfc874af22/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/gipsy/.gradle/caches/transforms-4/43f31c128712c985c45a5a6fc8853387/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/gipsy/.gradle/caches/transforms-4/43f31c128712c985c45a5a6fc8853387/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] /home/gipsy/.gradle/caches/transforms-4/3440bd93fc414bd336662979a7a560f3/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /home/gipsy/.gradle/caches/transforms-4/3440bd93fc414bd336662979a7a560f3/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/gipsy/.gradle/caches/transforms-4/e2e8023137b1ee426209b654916eb874/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/gipsy/.gradle/caches/transforms-4/e2e8023137b1ee426209b654916eb874/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/gipsy/.gradle/caches/transforms-4/7aa84f95eb27824fb7dbcc189c4f589c/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/gipsy/.gradle/caches/transforms-4/7aa84f95eb27824fb7dbcc189c4f589c/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/77ab1c735d8b679e4ecda1de03acb9e3/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/77ab1c735d8b679e4ecda1de03acb9e3/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/66651d84f251e27ea46203761ddd8661/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/66651d84f251e27ea46203761ddd8661/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/gipsy/.gradle/caches/transforms-4/7e12e969290529ff42f69f65d20f406a/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/gipsy/.gradle/caches/transforms-4/7e12e969290529ff42f69f65d20f406a/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gipsy/.gradle/caches/transforms-4/2e3308919a198637319dced610eb89d0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gipsy/.gradle/caches/transforms-4/2e3308919a198637319dced610eb89d0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gipsy/.gradle/caches/transforms-4/3a64de883d659106377b278e8295dbda/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gipsy/.gradle/caches/transforms-4/3a64de883d659106377b278e8295dbda/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gipsy/.gradle/caches/transforms-4/666d61e47c1ca4674c6ef0222ee2603f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gipsy/.gradle/caches/transforms-4/666d61e47c1ca4674c6ef0222ee2603f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gipsy/.gradle/caches/transforms-4/6931b87ba6347ce422c014ba6f3642f6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gipsy/.gradle/caches/transforms-4/6931b87ba6347ce422c014ba6f3642f6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/gipsy/.gradle/caches/transforms-4/a30263ed189aaef02c766c9ff7dd1784/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/gipsy/.gradle/caches/transforms-4/a30263ed189aaef02c766c9ff7dd1784/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gipsy/.gradle/caches/transforms-4/dc576f960b3bf1bc6ae7218faf595055/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gipsy/.gradle/caches/transforms-4/dc576f960b3bf1bc6ae7218faf595055/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/gipsy/.gradle/caches/transforms-4/b9c7d11f1f27c1e186603b27fa8a894e/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/gipsy/.gradle/caches/transforms-4/b9c7d11f1f27c1e186603b27fa8a894e/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gipsy/.gradle/caches/transforms-4/8c3407d5b187b9cfc5b39f97d2068b16/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gipsy/.gradle/caches/transforms-4/8c3407d5b187b9cfc5b39f97d2068b16/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gipsy/.gradle/caches/transforms-4/07fdf0a0828a049bb759e47dc0a2380a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gipsy/.gradle/caches/transforms-4/07fdf0a0828a049bb759e47dc0a2380a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/gipsy/.gradle/caches/transforms-4/99d20581bd58573199ff83db56ddeab9/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/gipsy/.gradle/caches/transforms-4/99d20581bd58573199ff83db56ddeab9/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/gipsy/AndroidStudioProjects/TrustDeliveryRider/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /home/gipsy/.gradle/caches/transforms-4/c99d1d5a0904130b2cda123afdee61ac/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/gipsy/.gradle/caches/transforms-4/df3471830260c5b1c8f8215506eeebfb/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/gipsy/.gradle/caches/transforms-4/df3471830260c5b1c8f8215506eeebfb/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gipsy/.gradle/caches/transforms-4/dc576f960b3bf1bc6ae7218faf595055/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gipsy/.gradle/caches/transforms-4/dc576f960b3bf1bc6ae7218faf595055/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/gipsy/.gradle/caches/transforms-4/c99d1d5a0904130b2cda123afdee61ac/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/gipsy/.gradle/caches/transforms-4/c99d1d5a0904130b2cda123afdee61ac/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/gipsy/.gradle/caches/transforms-4/c99d1d5a0904130b2cda123afdee61ac/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/gipsy/.gradle/caches/transforms-4/c99d1d5a0904130b2cda123afdee61ac/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /home/gipsy/.gradle/caches/transforms-4/c99d1d5a0904130b2cda123afdee61ac/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/gipsy/.gradle/caches/transforms-4/c99d1d5a0904130b2cda123afdee61ac/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /home/gipsy/.gradle/caches/transforms-4/c99d1d5a0904130b2cda123afdee61ac/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/gipsy/.gradle/caches/transforms-4/df3471830260c5b1c8f8215506eeebfb/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/gipsy/.gradle/caches/transforms-4/df3471830260c5b1c8f8215506eeebfb/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/gipsy/.gradle/caches/transforms-4/df3471830260c5b1c8f8215506eeebfb/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] /home/gipsy/.gradle/caches/transforms-4/f7c1578955e9e876a964e45e87410d2b/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] /home/gipsy/.gradle/caches/transforms-4/f7c1578955e9e876a964e45e87410d2b/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] /home/gipsy/.gradle/caches/transforms-4/f7c1578955e9e876a964e45e87410d2b/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/d499c58aaf6d2b4c5a2478903e7d791c/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/d499c58aaf6d2b4c5a2478903e7d791c/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /home/gipsy/.gradle/caches/transforms-4/d499c58aaf6d2b4c5a2478903e7d791c/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/gipsy/.gradle/caches/transforms-4/3440bd93fc414bd336662979a7a560f3/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/gipsy/.gradle/caches/transforms-4/3440bd93fc414bd336662979a7a560f3/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/gipsy/.gradle/caches/transforms-4/3440bd93fc414bd336662979a7a560f3/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.example.trustdeliveryrider.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/gipsy/.gradle/caches/transforms-4/3440bd93fc414bd336662979a7a560f3/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/gipsy/.gradle/caches/transforms-4/3440bd93fc414bd336662979a7a560f3/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/gipsy/.gradle/caches/transforms-4/3440bd93fc414bd336662979a7a560f3/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/gipsy/.gradle/caches/transforms-4/3440bd93fc414bd336662979a7a560f3/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/gipsy/.gradle/caches/transforms-4/3440bd93fc414bd336662979a7a560f3/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.trustdeliveryrider.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/gipsy/.gradle/caches/transforms-4/3440bd93fc414bd336662979a7a560f3/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/gipsy/.gradle/caches/transforms-4/3440bd93fc414bd336662979a7a560f3/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gipsy/.gradle/caches/transforms-4/6263db74f865f1d251fff592fb25173d/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
