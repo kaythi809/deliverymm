@@ -1,0 +1,26 @@
+/* trust-delivery-frontend/src/components/Navbar.css */
+.navbar {
+  background: #007bff; /* Blue background */
+  color: #ffffff; /* White text */
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-menu {
+  list-style-type: none;
+  display: flex;
+  gap: 20px; /* Space between menu items */
+}
+
+.navbar-menu a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.navbar-menu a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+/* Add styles for the Logout button if needed */
